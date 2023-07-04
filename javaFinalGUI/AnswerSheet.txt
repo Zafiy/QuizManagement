@@ -1,0 +1,5 @@
+2+2 =4,True,1
+there are 12 eggs in a dozen,True,2
+chicken is a source of protein,True,4
+are you going to pass this semester?,False,5
+did you enjoy this program?,True,2
